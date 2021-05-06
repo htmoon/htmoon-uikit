@@ -1,8 +1,8 @@
-# 🥞 Pancake UIkit
+# 🥞 HTMoon UIkit
 
 [![Version](https://img.shields.io/npm/v/@pancakeswap-libs/uikit)](https://www.npmjs.com/package/@pancakeswap-libs/uikit) [![Size](https://img.shields.io/bundlephobia/min/@pancakeswap-libs/uikit)](https://www.npmjs.com/package/@pancakeswap-libs/uikit)
 
-Pancake UIkit is a set of React components and hooks used to build pages on Pancake's apps. It also contains a theme file for dark and light mode.
+HTMoon UIkit is a set of React components and hooks used to build pages on HTMoon's apps. It also contains a theme file for dark and light mode.
 
 ## Install
 
@@ -12,7 +12,7 @@ Pancake UIkit is a set of React components and hooks used to build pages on Panc
 
 ### Theme
 
-Before using Pancake UIkit, you need to provide the theme file to styled-component.
+Before using HTMoon UIkit, you need to provide the theme file to styled-component.
 
 ```
 import { ThemeProvider } from 'styled-components'
