@@ -1,14 +1,14 @@
 {
-  "name": "@pancakeswap-libs/uikit",
+  "name": "@htmoon/htmoon-uikit",
   "version": "0.10.2",
-  "description": "Set of UI components for pancake projects",
+  "description": "Set of UI components for HTMoon projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/goosedefi/goose-uikit",
+  "repository": "https://github.com/htmoon/htmoon-uikit",
   "license": "MIT",
   "scripts": {
     "build": "rollup -c && tsc -d --emitDeclarationOnly --declarationDir dist",
